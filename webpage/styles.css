@@ -1,9 +1,5 @@
-body {
+body{
   background-color: azure;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh; 
 }
 
 hr {
@@ -11,12 +7,13 @@ hr {
   border-top: dotted grey 3px;
   width: 10%;
   margin: 0;
-}
+} 
 
 h1 {
-  color: green;
+  color: green
 }
 
-h3 {
-  color: green;
+h3{
+  color: green
 }
+
