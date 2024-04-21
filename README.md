@@ -1,3 +1,3 @@
 Site map 
 
-![sitemap](https://github.com/memor24/myVM/assets/112832477/67bcf219-e45f-4afb-81ac-f0e578c1b278)
+![sitemap](https://github.com/memor24/myVM/assets/112832477/97e5bfac-4ac1-450a-9054-3812fd7725ba)
