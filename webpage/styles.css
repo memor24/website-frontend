@@ -1,0 +1,19 @@
+body{
+  background-color: azure;
+}
+
+hr {
+  border: none;
+  border-top: dotted grey 3px;
+  width: 10%;
+  margin: 0;
+} 
+
+h1 {
+  color: green
+}
+
+h3{
+  color: green
+}
+
