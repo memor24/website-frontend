@@ -1,5 +1,5 @@
 # Architecture
-![sitemap](https://github.com/memor24/myWebsite-frontend/assets/112832477/c717be40-2d98-4a72-a27d-fb56b163878b)
+![sitemap](https://github.com/memor24/myWebsite-frontend/assets/112832477/ad58af5b-6db6-492d-b6a7-08ba25d5ce21)
 
 # Frontend
 ## Security
