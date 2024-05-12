@@ -7,5 +7,5 @@ The webpage is hosted in AWS-S3, the security of which is configured with Ansibl
 Also continuous integration (CICD) is done via GitHub Actions that integrates the local Dev environment and deploys changes to the AWS-S3 bucket.
 
 ## IaC
-TBU: All the AWS resources will be defined as Terraform code and deployed using Terraform commands automatically.
+TBU: All the AWS resources are defined as Terraform code and deployed using Terraform commands automatically.
 
