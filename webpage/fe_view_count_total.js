@@ -15,5 +15,3 @@ async function getCounter() {
 }
 
 getCounter(); 
-
-//new test
