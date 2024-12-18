@@ -3,7 +3,6 @@
 
 
 # Frontend
-## Security
 The webpage is hosted in AWS-S3 . \
 DNS, SSL/TLS and CDN services are provided by Cloudflare.
 Also continuous integration (CICD) is done via GitHub Actions that integrates to AWS-S3 bucket on git push.
